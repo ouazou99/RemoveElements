@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: rgb(255, 255, 128);
+}
+input:focus {
+  background-color: rgb(245, 207, 221);
+  color: blue;
+}
+.ko {
+  color: blue;
+   text-align: center;
+   font-size: 40px;
+}
